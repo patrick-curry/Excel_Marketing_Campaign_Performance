@@ -15,7 +15,7 @@ Process:
 - Transfer data to Date Bucket
 
 ## Dashboard
-![AB_test_ss.jpg](https://github.com/patrick-curry/Excel_AB_Testing_Dashboard/blob/main/AB_test_ss.jpg)
+![AB_test_ss.jpg](https://github.com/patrick-curry/Excel_Marketing_Campaign_Performance/blob/main/marketing_campaign_performance_ssf.png)
 ## Overall Insight:
 - The company generated $51M in revenue for 2025 while spending $25.5M, achieving a 100% ROI, which indicates highly effective marketing performance.
 ## Channel Insight:
