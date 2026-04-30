@@ -7,7 +7,7 @@ The dataset can be located on [Kaggle](https://www.kaggle.com/datasets/mirzayasi
 
 ## Marketing Performance Data Analysis
 The idea for this project was to take a dataset I have never worked with and explore the new data, asking questions and building a full analysis from scratch. The overall goal was to understand campaign performance, compare channels and identify areas where performance could be improved.
-Process: 
+## Process: 
 - Convert date and currency fields
 - Remove duplicates, nulls and anomaly check
 - Validate key metrics like ROI
